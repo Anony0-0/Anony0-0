@@ -3,6 +3,8 @@
 **Desenvovedora Aventureira**
 
 ###
+![Anony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anony0-0&show_icons=true&theme=radical)
+[![Anony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anony0-0)](https://github.com/Anony0-0/github-readme-stats)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anony0-0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
