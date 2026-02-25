@@ -14,7 +14,8 @@
 <img align="right" height="150" src="https://i.pinimg.com/originals/6b/fc/3c/6bfc3c650c24d1cc9d5214964303c06d.gif"  />
 
 ###
-
+---
+#Linguagens
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
