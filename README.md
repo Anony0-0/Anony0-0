@@ -1,11 +1,6 @@
 <h2 align="left">💜 Alana Rafaela</h2>
 
-**Desenvovedora Aventureira**
-
-###
-
-![Anony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anony0-0&show_icons=true&theme=radical)
-[![Anony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anony0-0)](https://github.com/Anony0-0/github-readme-stats)  
+**Desenvovedora Aventureira**  
 
 
 ###
