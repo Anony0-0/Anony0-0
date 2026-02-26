@@ -2,6 +2,8 @@
 
 **Desenvovedora Aventureira**  
 
+- Estudando diversas linguagens.
+- Back e Front end.
 
 ###
 
