@@ -1,6 +1,6 @@
 <h2 align="left">💜 Alana Rafaela</h2>
 
-**Desenvovedora Aventureira**  
+**Desenvolvedora Aventureira**  
 
 - Estudando diversas linguagens.
 - Back e Front end.
