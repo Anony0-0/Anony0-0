@@ -3,7 +3,6 @@
 **Desenvovedora Aventureira**
 
 ###
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anony0-0&show_icons=true&theme=radical)
 [![Anony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anony0-0)](https://github.com/Anony0-0/github-readme-stats)  
