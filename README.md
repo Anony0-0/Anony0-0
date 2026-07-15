@@ -1,6 +1,6 @@
 <h2 align="left">💜 Alana Rafaela</h2>
 
-**Desenvolvedora Aventureira**  
+**Desenvolvedora Full-Stack**  
 
 - Estudando diversas linguagens, Back e Front end.
 - Foco em Java e C#
