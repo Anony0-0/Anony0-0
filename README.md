@@ -1,12 +1,15 @@
 <h2 align="left">💜 Olá! sou a Alana Rafaela. Bem vindos ao meu perfil! 💜</h1>
 
-**Desenvolvedora BackEnd / Full-Stack**  
-
-- Foco em Java e C#
-
 <p align="left">
   <b>Desenvolvedora Backend / Full-Stack</b> com foco principal no ecossistema <b>Java</b> e <b>C# (.NET)</b>.
 </p>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+</div>
 
 
 ###
