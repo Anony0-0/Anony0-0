@@ -23,7 +23,7 @@
 
 ###
 <img align="right" height="150" src="https://i.pinimg.com/originals/6b/fc/3c/6bfc3c650c24d1cc9d5214964303c06d.gif"  />
-###
+
 
 ### 🔷 Ecossistema C# & .NET
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
