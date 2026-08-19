@@ -1,7 +1,9 @@
-<h2 align="left">💜 Olá! sou a Alana Rafaela. Bem vindos ao meu perfil! 💜</h1>
+<h3 align="left">💜 Olá! sou a Alana Rafaela. Bem vindos ao meu perfil! 💜</h3>
 
 <p align="left">
+   <font size="4">
   <b>Desenvolvedora Backend / Full-Stack</b> com foco principal no ecossistema <b>Java</b> e <b>C# (.NET)</b>.
+    </font>
 </p>
 
 <div align="left">
@@ -37,6 +39,8 @@
 
 
 <br clear="both">
+
+---
 
 ### 🌐 Outras Linguagens & Conhecimentos
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
