@@ -1,8 +1,13 @@
 <h2 align="left">💜 Olá! sou a Alana Rafaela. Bem vindos ao meu perfil! 💜</h1>
 
-**Desenvolvedora Full-Stack**  
+**Desenvolvedora BackEnd / Full-Stack**  
 
 - Foco em Java e C#
+
+<p align="left">
+  <b>Desenvolvedora Backend / Full-Stack</b> com foco principal no ecossistema <b>Java</b> e <b>C# (.NET)</b>.
+</p>
+
 
 ###
 
