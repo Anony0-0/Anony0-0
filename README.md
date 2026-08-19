@@ -1,4 +1,4 @@
-<h2 align="left">💜 Alana Rafaela</h1>
+<h2 align="left">💜 Olá! sou a Alana Rafaela. Bem vindos ao meu perfil! 💜</h1>
 
 **Desenvolvedora Full-Stack**  
 
