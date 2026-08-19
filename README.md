@@ -1,4 +1,4 @@
-<h2 align="left">💜 Alana Rafaela</h2>
+<h2 align="left">💜 Alana Rafaela</h1>
 
 **Desenvolvedora Full-Stack**  
 
