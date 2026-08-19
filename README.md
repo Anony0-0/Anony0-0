@@ -15,16 +15,15 @@
 
 <br />
 
-###
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/6b/fc/3c/6bfc3c650c24d1cc9d5214964303c06d.gif"  />
-
-###
 
 ### ☕ Ecossistema Java
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openapi-initiative&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
+###
+<img align="right" height="150" src="https://i.pinimg.com/originals/6b/fc/3c/6bfc3c650c24d1cc9d5214964303c06d.gif"  />
+###
 
 ### 🔷 Ecossistema C# & .NET
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
