@@ -2,6 +2,8 @@
 
 **Desenvolvedora Full-Stack**  
 
+
+
 - Estudando diversas linguagens, Back e Front end.
 - Foco em Java e C#
 
